@@ -56,4 +56,4 @@ The model is trained using the following conclusions:
 7. The model is trained using a visualization techniques.
 
 Screenshot of the model architecture is provided below:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ss1.jpg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ss2.jpg
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/ss1.png" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/ss2.png" height="400">
