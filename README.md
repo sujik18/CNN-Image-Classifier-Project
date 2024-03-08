@@ -1,7 +1,7 @@
 # CNN-Image-Classifier-Project
 Convolutional Neural Network (CNN) project to identify the class of input image. In this project the input images are divided into one of two classes which are Dogs and Cats, and the model is trained and tested over 300 unique images.
 
-The link to the dataset is provided below:
+The link to the dataset used:
 https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/data
 
 The dataset is divided into two folders, one for each class. The dataset is further divided into training and testing data. The training data is used to train the model and the testing data is used to test the model.
@@ -55,6 +55,7 @@ The model is trained using the following conclusions:
 6. The model is trained using a Confusion Matrix, Classification Report, Accuracy Score, and Loss Score.
 7. The model is trained using a visualization techniques.
 
-#Screenshots
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/ss1.jpg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/ss2.jpg" height="400">
+# Screenshots
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/ss1.jpg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Screenshots/ss2.jpg" height="400">
 ---
