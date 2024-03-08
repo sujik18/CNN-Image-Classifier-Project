@@ -56,6 +56,6 @@ The model is trained using the following conclusions:
 7. The model is trained using a visualization techniques.
 
 # Screenshots
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/ss1.jpg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Screenshots/ss2.jpg" height="400">
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/ss1.jpg" height="300">&nbsp;&nbsp;&nbsp;
+<img src="Screenshots/ss2.jpg" height="300">
 ---
