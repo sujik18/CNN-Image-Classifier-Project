@@ -55,5 +55,6 @@ The model is trained using the following conclusions:
 6. The model is trained using a Confusion Matrix, Classification Report, Accuracy Score, and Loss Score.
 7. The model is trained using a visualization techniques.
 
-Screenshot of the model architecture is provided below:
+#Screenshots
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/ss1.jpg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/ss2.jpg" height="400">
+---
